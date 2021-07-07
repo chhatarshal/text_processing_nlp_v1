@@ -4,3 +4,7 @@ streamlit
 tensorflow
 numpy
 requests
+matplotlib
+sklearn
+random
+itertools
